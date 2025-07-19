@@ -216,5 +216,5 @@ The design draws inspiration from industry leaders:
 
 ### Project Links
 - 📱 **Live Demo**: [Demo Link](https://your-demo-link.com)
-- 📋 **Project Repository**: [GitHub Repository](https://github.com/yourusername/flutter-ecommerce-app)
+- 📋 **Project Repository**: [GitHub Repository](https://github.com/Lucius0123/Basic-E-Commerce-App)
 -
