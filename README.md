@@ -1,5 +1,10 @@
 # Modern Flutter E-Commerce Application
 
+### Project Links
+- 📱 **Live Demo**: [Demo Link](https://drive.google.com/drive/folders/1bD5WGXRCwnyZzgobzSv7d8Q9xfZ3TLHQ?usp=sharing)
+- 📋 **Project Repository**: [GitHub Repository](https://github.com/Lucius0123/Basic-E-Commerce-App)
+
+
 ## 📱 Project Overview
 
 It is a modern, feature-rich Flutter e-commerce application designed to provide users with an exceptional shopping experience. Inspired by leading e-commerce platforms like Amazon, Flipkart, and Myntra, this application showcases contemporary mobile app development practices with a focus on user experience, performance, and visual appeal.
@@ -213,8 +218,3 @@ The design draws inspiration from industry leaders:
    flutter build ios --release
    ```
 
-
-### Project Links
-- 📱 **Live Demo**: [Demo Link](https://your-demo-link.com)
-- 📋 **Project Repository**: [GitHub Repository](https://github.com/Lucius0123/Basic-E-Commerce-App)
--
